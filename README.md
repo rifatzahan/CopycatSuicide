@@ -1,1 +1,1 @@
-# CopycatSuicide
+# Copycat Suicide
